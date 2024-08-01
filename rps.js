@@ -31,6 +31,11 @@ console.log(`Computer chose ${getComputerChoice()}`)
  } 
 
  console.log(`Human chose ${getHumanChoice()}`)
+
 //keep track of players score and computers score
+let humanScore = 0
+let computerScore = 0
+
 //function for playing a round
+
 //function for playing a game
